@@ -7,197 +7,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68af0bb2-3649-4171-bced-0c50a083c2f6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Check_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Check_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jexcelapi_jxl_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jexcelapi_jxl_2_4_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_13.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_10.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_11.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_2_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Check.iml" afterPath="$PROJECT_DIR$/Check.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-      <change beforePath="$PROJECT_DIR$/target/Check.war" afterPath="$PROJECT_DIR$/target/Check.war" />
-      <change beforePath="$PROJECT_DIR$/target/Check/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/common/springdao/AppContext.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/common/springdao/AppContext.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/common/springdao/SQLDAO.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/common/springdao/SQLDAO.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/BaseController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/BaseController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/CourseController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/CourseController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/GradeController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/GradeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/PaperController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/PaperController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/QuestionController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/QuestionController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/TypeController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/TypeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/UserController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/admin/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/ErrorBookController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/ErrorBookController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/PaperMgController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/PaperMgController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/StuController.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/controller/user/StuController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/BaseDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/BaseDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/CourseDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/CourseDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/ErrorBookDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/ErrorBookDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/GradeDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/GradeDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/PaperDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/PaperDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/QuestionDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/QuestionDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/TypeDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/TypeDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/UserDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/BaseDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/BaseDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/CourseDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/CourseDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/ErrorBookDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/ErrorBookDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/GradeDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/GradeDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/PaperDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/PaperDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/QuestionDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/QuestionDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/TypeDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/TypeDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/UserDaoImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/dao/impl/UserDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Course.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Course.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/ErrorBook.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/ErrorBook.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Factory.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Factory.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Grade.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Grade.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/MsgItem.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/MsgItem.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Paper.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Paper.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Question.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Question.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Type.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/Type.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/User.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/domain/User.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/Page.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/Page.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/PageInterceptor$ReflectUtil.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/PageInterceptor$ReflectUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/PageInterceptor.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/pagination/PageInterceptor.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/CourseService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/CourseService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/ErrorBookService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/ErrorBookService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/GradeService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/GradeService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/PaperService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/PaperService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/QuestionService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/QuestionService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/TypeService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/TypeService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/UserService.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/UserService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/CourseServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/CourseServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/ErrorBookServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/ErrorBookServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/GradeServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/GradeServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/PaperServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/PaperServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/QuestionServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/QuestionServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/TypeServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/TypeServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/service/impl/UserServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/Arith.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/Arith.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/ComputeScore.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/ComputeScore.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/Computeclass.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/Computeclass.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/DateConverter.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/DateConverter.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/DownloadUtil.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/DownloadUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/FormatStyle.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/FormatStyle.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/MD5Util.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/MD5Util.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/MybatisUtil.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/MybatisUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/TextSimilarityUtil.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/TextSimilarityUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/UtilFuns.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/UtilFuns.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/file/FileUtil.class" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/edu/fjnu/online/util/file/FileUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/Check/WEB-INF/classes/jdbc.properties" />
-      <change beforePath="$PROJECT_DIR$/target/Check/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/common/springdao/AppContext.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/common/springdao/AppContext.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/common/springdao/SQLDAO.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/common/springdao/SQLDAO.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/BaseController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/BaseController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/CourseController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/CourseController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/GradeController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/GradeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/PaperController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/PaperController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/QuestionController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/QuestionController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/TypeController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/TypeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/UserController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/admin/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/ErrorBookController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/ErrorBookController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/PaperMgController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/PaperMgController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/StuController.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/controller/user/StuController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/BaseDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/BaseDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/CourseDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/CourseDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/ErrorBookDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/ErrorBookDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/GradeDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/GradeDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/PaperDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/PaperDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/QuestionDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/QuestionDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/TypeDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/TypeDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/UserDao.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/BaseDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/BaseDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/CourseDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/CourseDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/ErrorBookDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/ErrorBookDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/GradeDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/GradeDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/PaperDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/PaperDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/QuestionDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/QuestionDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/TypeDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/TypeDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/UserDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/dao/impl/UserDaoImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Course.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Course.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/ErrorBook.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/ErrorBook.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Factory.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Factory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Grade.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Grade.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/MsgItem.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/MsgItem.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Paper.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Paper.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Question.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Question.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Type.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/Type.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/User.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/domain/User.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/Page.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/Page.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/PageInterceptor$ReflectUtil.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/PageInterceptor$ReflectUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/PageInterceptor.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/pagination/PageInterceptor.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/CourseService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/CourseService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/ErrorBookService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/ErrorBookService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/GradeService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/GradeService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/PaperService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/PaperService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/QuestionService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/QuestionService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/TypeService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/TypeService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/UserService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/CourseServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/CourseServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/ErrorBookServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/ErrorBookServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/GradeServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/GradeServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/PaperServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/PaperServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/QuestionServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/QuestionServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/TypeServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/TypeServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/service/impl/UserServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/Arith.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/Arith.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/ComputeScore.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/ComputeScore.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/Computeclass.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/Computeclass.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/DateConverter.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/DateConverter.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/DownloadUtil.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/DownloadUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/FormatStyle.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/FormatStyle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/MD5Util.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/MD5Util.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/MybatisUtil.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/MybatisUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/TextSimilarityUtil.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/TextSimilarityUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/UtilFuns.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/UtilFuns.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/file/FileUtil.class" afterPath="$PROJECT_DIR$/target/classes/edu/fjnu/online/util/file/FileUtil.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/maven/edu.fjnu.online/Check/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-jee/web-resources/META-INF/maven/edu.fjnu.online/Check/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jexcelapi_jxl_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jexcelapi_jxl_2_4_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_10.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Check.iml" afterPath="$PROJECT_DIR$/Check.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeneratorForProject/GeneratorForProject.iml" afterPath="$PROJECT_DIR$/GeneratorForProject/GeneratorForProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/onlinetest.sql" afterPath="$PROJECT_DIR$/sql/onlinetest.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/GeneratorForProject/target/" />
@@ -222,11 +78,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="149" column="49" lean-forward="true" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
+            <state relative-caret-position="189">
+              <caret line="132" column="34" lean-forward="false" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -283,7 +149,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/software/develop/maven/apache-maven-3.1.1" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.1.1" />
         <option name="userSettingsFile" value="D:\software\develop\maven\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -295,32 +161,11 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GeneratorForProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GeneratorForProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GeneratorForProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GeneratorForProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="139" />
     <option name="y" value="169" />
     <option name="width" value="1400" />
@@ -341,28 +186,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Check" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimulationExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Check" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimulationExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Check" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimulationExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Check" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimulationExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -371,8 +215,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -380,7 +225,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GeneratorForProject/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -405,82 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+  <component name="RunManager" selected="Tomcat Server.MyServer">
     <configuration name="MyServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.28" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -554,11 +324,86 @@
         </option>
       </method>
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -578,20 +423,21 @@
       <workItem from="1521863241785" duration="12815000" />
       <workItem from="1521950561116" duration="2776000" />
       <workItem from="1521956298883" duration="2780000" />
+      <workItem from="1522034494099" duration="1242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19016000" />
+    <option name="totallyTimeSpent" value="20258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2004717" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -600,18 +446,18 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30576715" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30660376" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -619,6 +465,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,6 +479,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
@@ -672,14 +527,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4225">
@@ -704,14 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -736,46 +577,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/maven/repository/org/mybatis/generator/mybatis-generator-core/1.3.5/mybatis-generator-core-1.3.5.jar!/org/mybatis/generator/config/xml/mybatis-generator-config_1_0.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/confi/.IntelliJIdea/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/maven/repository/org/mybatis/generator/mybatis-generator-core/1.3.5/mybatis-generator-core-1.3.5.jar!/org/mybatis/generator/config/xml/mybatis-generator-config_1_0.dtd" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$APPLICATION_HOME_DIR$/confi/.IntelliJIdea/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdbc.properties" />
     <entry file="file://$PROJECT_DIR$/GeneratorForProject/src/main/resources/dbconfig.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -788,26 +593,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/personal-generatorconfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeneratorForProject/src/main/java/com/atguigu/crud/dao/TestMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/personal-generatorconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/GeneratorForProject/src/main/java/com/atguigu/crud/dao/TestMapper.java" />
     <entry file="file://$PROJECT_DIR$/GeneratorForProject/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -826,8 +616,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="149" column="49" lean-forward="true" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
+        <state relative-caret-position="189">
+          <caret line="132" column="34" lean-forward="false" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="47" />
           <folding />
         </state>
       </provider>

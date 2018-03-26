@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Check" target="1.7" />
-      <module name="GeneratorForProject" target="1.7" />
+      <module name="Check" target="1.5" />
+      <module name="GeneratorForProject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
